@@ -1,0 +1,51 @@
+lender_name,available_funds,max_risk_allowed,interest_rate
+SBI SME Fund,500000,LOW,10
+HDFC MSME Finance,300000,MEDIUM,12
+ICICI Business Loans,700000,HIGH,14
+Axis Bank SME Division,250000,LOW,11
+Bajaj Finserv Business Loans,400000,MEDIUM,13
+Tata Capital SME Lending,800000,HIGH,15
+Mahindra Finance MSME,150000,LOW,9
+Muthoot Finance Business Loans,600000,MEDIUM,12
+Lendingkart Finance,350000,HIGH,16
+Kotak Mahindra SME Fund,900000,LOW,10
+Aditya Birla Finance,1000000,HIGH,18
+Indifi Technologies,450000,MEDIUM,11
+SIDBI Direct Lending,550000,LOW,10
+NeoGrowth Credit,200000,HIGH,17
+FlexiLoans,750000,MEDIUM,13
+UGRO Capital,300000,LOW,9
+Fullerton India Finance,650000,HIGH,15
+Poonawalla Fincorp,500000,MEDIUM,12
+SME Corner Finance,850000,LOW,10
+Aye Finance,1200000,HIGH,19
+Jana Small Finance Bank,400000,LOW,11
+AU Small Finance Bank,950000,MEDIUM,13
+Clix Capital,250000,HIGH,16
+Federal Bank SME Loans,700000,LOW,9
+RBL Bank Business Banking,500000,MEDIUM,12
+Northern Arc Capital,1100000,HIGH,18
+Indian Bank MSME Cell,300000,LOW,10
+Bank of Baroda SME Finance,600000,MEDIUM,14
+Cholamandalam Finance,450000,HIGH,17
+Canara Bank SME Lending,750000,LOW,11
+Yes Bank Business Banking,1000000,MEDIUM,13
+Navi Business Loans,350000,HIGH,16
+IDFC FIRST Business Loans,500000,LOW,10
+State Bank e-Mudra,650000,MEDIUM,12
+MobiKwik Merchant Finance,900000,HIGH,15
+Startup India Seed Fund,1200000,LOW,9
+Kalaari Capital Angel Fund,250000,MEDIUM,13
+Blume Ventures Credit Pool,800000,HIGH,18
+Indian Angel Network,550000,LOW,11
+100X Venture Fund,400000,MEDIUM,12
+Trifecta Capital,700000,HIGH,17
+Alteria Capital,300000,LOW,10
+Stride Ventures,950000,MEDIUM,14
+InCred Finance,500000,HIGH,16
+MoneyTap Business Credit,650000,LOW,9
+Niyogin Fintech,850000,MEDIUM,13
+Rupeek Business Lending,1000000,HIGH,18
+Capital Float SME Loans,450000,LOW,10
+Paytm Merchant Lending,750000,MEDIUM,12
+Razorpay Capital,600000,HIGH,15
